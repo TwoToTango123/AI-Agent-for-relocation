@@ -1,0 +1,29 @@
+# Python caches and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment files
+.env
+
+# Runtime/generated data
+cache.json
+agent_trace.jsonl
+
+# Temporary and debug artifacts
+.tmp_*
+.input_*
+.smoke_input.txt
+stdin_commands.txt
+*_test.py
+quick_test.py
+alt_api_test.py
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
