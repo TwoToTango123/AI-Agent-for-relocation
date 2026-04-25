@@ -28,7 +28,7 @@
   - rich==13.7.1
 
 3. LLM:
-  Groq через OpenAI-совместимый endpoint.
+  Groq, llama-3.3-70b-versatile
 
 4. Интерфейс:
   Rich CLI (таблицы, панели, форматированный вывод).
